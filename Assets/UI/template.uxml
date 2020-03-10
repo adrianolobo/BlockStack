@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
+  <ui:VisualElement name="main" class="main">
+    <ui:VisualElement class="panel">
+      <ui:VisualElement class="panel__header">
+        <ui:Label class="panel__title" text="Block Stack" />
+      </ui:VisualElement>
+      <ui:VisualElement class="panel__game-container">
+        <ui:VisualElement class="game__line-1 game__line">
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+        </ui:VisualElement>
+        <ui:VisualElement class="game__line-1 game__line">
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+        </ui:VisualElement>
+        <ui:VisualElement class="game__line-1 game__line">
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+        </ui:VisualElement>
+        <ui:VisualElement class="game__line-1 game__line">
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+        </ui:VisualElement>
+        <ui:VisualElement class="game__line-1 game__line">
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+        </ui:VisualElement>
+        <ui:VisualElement class="game__line-1 game__line">
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+        </ui:VisualElement>
+        <ui:VisualElement class="game__line-1 game__line">
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+        </ui:VisualElement>
+        <ui:VisualElement class="game__line-1 game__line">
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+        </ui:VisualElement>
+        <ui:VisualElement class="game__line-1 game__line">
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+        </ui:VisualElement>
+        <ui:VisualElement class="game__line-1 game__line">
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+        </ui:VisualElement>
+        <ui:VisualElement class="game__line-1 game__line">
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+        </ui:VisualElement>
+        <ui:VisualElement class="game__line-1 game__line">
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+        </ui:VisualElement>
+        <ui:VisualElement class="game__line-1 game__line">
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+        </ui:VisualElement>
+        <ui:VisualElement class="game__line-1 game__line">
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+          <ui:VisualElement class="game__block" />
+        </ui:VisualElement>
+      </ui:VisualElement>
+      <ui:VisualElement class="panel__footer">
+        <ui:Button class="stack-btn" text="STACK!" />
+      </ui:VisualElement>      
+    </ui:VisualElement>
+  </ui:VisualElement>
+</ui:UXML>

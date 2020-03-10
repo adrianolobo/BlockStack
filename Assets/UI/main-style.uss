@@ -1,0 +1,61 @@
+﻿:root {
+    -unity-font: url('/Assets/Fonts/Montserrat-Light.ttf');
+    font-size: 24px;
+}
+
+.main {
+	background-color: #315d7d;
+	width: 100%;
+	height: 100%;
+	justify-content: center;
+	align-items: center;
+}
+
+.panel {
+	width: 90%;
+	height: 90%;
+	background-color: #e6e6e6;
+	border-radius: 20px;
+}
+
+.panel__header {
+	justify-content: center;
+	align-items: center;
+	padding: 10px;
+}
+
+
+.panel__game-container {
+	border-color: #e6e6e6;
+	border-width: 0px 1px;
+	background-color: #1d547b;
+	flex-grow: 1;
+	flex-direction: column;
+}
+
+.panel__footer {
+	padding: 10px;
+	justify-content: center;
+	align-items: center;
+}
+
+.stack-btn {
+	-unity-text-align: middle-center;
+	background-color: #87B1CF;
+	color: #fff;
+	border-radius: 5px;
+	padding: 10px 20px;
+	width: 60%;
+	font-size: 20px;
+}
+
+.game__line {
+	flex-direction: row;
+	flex-grow: 1;
+}
+
+.game__block {
+	border-color: #e6e6e6;
+	border-width: 1px;
+	flex-grow: 1;
+}
